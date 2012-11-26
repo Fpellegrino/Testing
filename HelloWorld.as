@@ -6,7 +6,8 @@ package {
    
    public function HelloWorld() {      
      greeting.text = "I Love To Dance";
-	 greeting.text = "I love to Prance"; 
+	 	 greeting.text = "I love to Prance"; 
+	 	 greeting.text = "I love to Breakdance"; 	
      greeting.x = 1000;
      greeting.y = 1000;
      addChild(greeting);
